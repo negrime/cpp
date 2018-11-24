@@ -1,6 +1,6 @@
 ﻿  lab 2.cpp
-\\mac\home\desktop\git\cpp\lab 2\lab 2\lab 2.cpp(17): warning C4305: инициализация: усечение из "double" в "const float"
-\\mac\home\desktop\git\cpp\lab 2\lab 2\lab 2.cpp(57): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-\\mac\home\desktop\git\cpp\lab 2\lab 2\lab 2.cpp(67): warning C4244: return: преобразование "int" в "float", возможна потеря данных
-\\mac\home\desktop\git\cpp\lab 2\lab 2\lab 2.cpp(113): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  lab 2.vcxproj -> \\Mac\Home\Desktop\GIT\cpp\lab 2\Debug\lab 2.exe
+c:\users\negrime\desktop\labs\cpp\lab 2\lab 2\lab 2.cpp(17): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\negrime\desktop\labs\cpp\lab 2\lab 2\lab 2.cpp(18): warning C4305: инициализация: усечение из "double" в "const float"
+c:\users\negrime\desktop\labs\cpp\lab 2\lab 2\lab 2.cpp(147): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\negrime\desktop\labs\cpp\lab 2\lab 2\lab 2.cpp(365): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab 2.vcxproj -> C:\Users\Negrime\Desktop\labs\cpp\lab 2\Debug\lab 2.exe
