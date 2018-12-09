@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication11.cpp
+c:\users\negrime\desktop\consoleapplication11\consoleapplication11\consoleapplication11.cpp(104): warning C4715: List<int>::SeekNum: значение возвращается не при всех путях выполнения
+  ConsoleApplication11.vcxproj -> C:\Users\Negrime\Desktop\ConsoleApplication11\Debug\ConsoleApplication11.exe
