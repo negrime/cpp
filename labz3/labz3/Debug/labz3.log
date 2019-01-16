@@ -1,0 +1,3 @@
+﻿  labz3.cpp
+c:\users\scorp\desktop\git\cpp\labz3\labz3\labz3.cpp(104): warning C4715: List<`main'::`2'::test>::SeekNum: значение возвращается не при всех путях выполнения
+  labz3.vcxproj -> C:\Users\scorp\Desktop\GIT\cpp\labz3\Debug\labz3.exe
